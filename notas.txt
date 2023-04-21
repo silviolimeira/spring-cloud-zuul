@@ -1,0 +1,4 @@
+
+How to configure SpringCloud Zuul – Routing and Filtering using SpringBoot | Java Techie
+
+https://www.youtube.com/watch?v=6aG0xFpeNFw&t=326s
